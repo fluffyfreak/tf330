@@ -14,15 +14,20 @@ If you need help with this the best place to get it is the exxos forum https://w
 
 Please do not message me directly. Start a thread. 
 
-I do my best to help people who ask polite questions in public but if you make your inadequecies my problem them you are on your own. 
+I do my best to help people who ask polite questions in public but if you make your inadequecies my problem then you are on your own. 
 
 ![alt text](https://github.com/terriblefire/tf330/raw/master/top.png "Top of board")
 
 ![alt text](https://github.com/terriblefire/tf330/raw/master/bottom.png "Bottom of board")
 
-I dont care if you think my HDL is not pristine either. It works perfecly fine for what its intended to be. The SDRAM Controller is derived from my Archie core and the clock controller code is designed to simulate a PLL with adjustable phase. 
+I dont care if you think my HDL is not pristine either. It works perfecly fine for what its intended to be. I lothe the wordy VHDL language.. it breaks the most basic principle of coding .. .DONT REPEAT YOURSELF. 
 
-This is not an exercise in German over engineering. Its proper engineered to do an exact task. Its a simple repeatable board that works and there are about 500 of them built and working reliably.
+The SDRAM Controller is derived from my Archie core and the clock controller code is designed to simulate a PLL with adjustable phase. 
+
+This is not an exercise in German over engineering. Its properly engineered to do an exact task and nothing more. Its a simple repeatable board that works and there are about 500 of them built and working reliably.
 
 I dont like forks because i dont like options. Options mean more testing and more testing = time. So if you fork you are on your own but if you fork and dont give credit I will make it my mission in life to punish you. I will summon the ancient spirits of evil like Jack Tramiel and have them haunt you for all time. You have been warned. 
 
+I know this seems a bit hostile but really its just from hard experience of Amiga people. I give this out for free but there are people out there who will take the piss and try to rip off amiga users with clones baring their own name, others will get one of these off ebay for £15 and expect me to invest 100s of hours in helping them get it going. Yet others will try to be smart arses and tell me i've done X, Y or Z wrong and this will never work. If for any reason you decide this board does not measure up to whatever standard YOU think it should be... take a hike. I dont care. 
+
+On the other hand if you have an actual firmware bugfix send me a pull request with testing evidence. 
