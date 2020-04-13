@@ -1,0 +1,16 @@
+My order of the build is 
+
+1.    CPLD
+2.    Bus switch x4
+3.    All 100nf caps x8
+4.    SD ram  x2
+5.    1K Resistor arrays x2
+6.    Volt Reg
+7.    10uf caps x3 (Top Board)
+8.    22uf  caps x3  (Top board)
+9.    Crystal Oscillator 
+10.  1uf  x4 (Bottom board)
+11.  10uf  x3 (Bottom Board)
+12.  030 pga socket (Optional) or 030 CPU
+13.  1k  thick film resistors x2 ( by IDE header)
+14.  44 pin IDE header socket
