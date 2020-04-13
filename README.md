@@ -20,7 +20,9 @@ I do my best to help people who ask polite questions in public but if you make y
 
 ![alt text](https://github.com/terriblefire/tf330/raw/master/bottom.png "Bottom of board")
 
-I dont care if you think my HDL is not pristine either. It works perfecly fine for what its intended to be. This is not an exercise in German over engineering. Its just a simple repeatable board that works and there are about 500 of them built and working reliably.
+I dont care if you think my HDL is not pristine either. It works perfecly fine for what its intended to be. The SDRAM Controller is derived from my Archie core and the clock controller code is designed to simulate a PLL with adjustable phase. 
+
+This is not an exercise in German over engineering. Its proper engineered to do an exact task. Its a simple repeatable board that works and there are about 500 of them built and working reliably.
 
 I dont like forks because i dont like options. Options mean more testing and more testing = time. So if you fork you are on your own but if you fork and dont give credit I will make it my mission in life to punish you. I will summon the ancient spirits of evil like Jack Tramiel and have them haunt you for all time. You have been warned. 
 
