@@ -32,6 +32,8 @@ I dont like forks because i dont like options. Options mean more testing and mor
 
 I know this seems a bit hostile but really its just from hard experience of Amiga people. I give this out for free but there are people out there who will take the piss and try to rip off amiga users with clones baring their own name, others will get one of these off ebay for £15 and expect me to invest 100s of hours in helping them get it going. Yet others will try to be smart arses and tell me i've done X, Y or Z wrong and this will never work. If for any reason you decide this board does not measure up to whatever standard YOU think it should be... take a hike. I dont care. 
 
-On the other hand if you have an actual firmware bugfix send me a pull request with testing evidence. 
+On the other hand if you have an actual firmware bugfix send me a pull request with testing evidence. It will be appreciated greatly. 
+
+For crashes please check that the crash doesnt happen in WinUAE for a CD32 with A1200 IDE and 64MB ZIII Ram before making a bug report. Most of the crashes we have seen over the years are repeatable in that environment. 
 
 This version of the board is cloned from my private repository and is GPL. The version in my private repo is not GPL and anything derived from it is not subject to the GPL v2.
