@@ -8,7 +8,7 @@ TF330 is distributed with absolutely no warranty. If you make a mistake you coul
 
 The TF330 is an 030 accelerator fixed at 50Mhz with 64Mb of SDRAM (128Mb possible), WIFI support (via ESP8266) and is intended to work with CF cards or IDE2SD card type devices. The IDE interface does not work with long cables. It is intended to be CHEAP Because thats pretty much all Amiga users care about. 
 
-Before you start building :- You can buy these from Supaduper & AlenPPC (AmiBay) completely built for less than it will cost you to but the parts and the time it will take you if you bill your time at minimum wage.
+**Before you start building :- You can buy these from Supaduper & AlenPPC (AmiBay) completely built for less than it will cost you to buy the parts and the time it will take you if you bill your time at minimum wage.**
 
 If you have poor soldering skills and feel the need to mock me for not using through hole technology please dont bother. I've heard it all before and I will just laugh at you. Through hole sucks. 
 
