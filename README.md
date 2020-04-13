@@ -28,7 +28,7 @@ The SDRAM Controller is derived from my Archie core and the clock controller cod
 
 This is not an exercise in German over engineering. Its properly engineered to do an exact task and nothing more. Its a simple repeatable board that works and there are about 500 of them built and working reliably.
 
-I dont like forks because i dont like options. Options mean more testing and more testing = time. So if you fork you are on your own but if you fork and dont give credit I will make it my mission in life to punish you. I will summon the ancient spirits of evil like Jack Tramiel and have them haunt you for all time. You have been warned. 
+I dont like forks because i dont like options. Options mean more testing and more testing = time. So if you fork you are on your own but if you fork and dont give credit I will make it my mission in life to punish you. I will summon the ancient retro spirits of evil like Jack Tramiel and have them haunt you for all time. You have been warned. 
 
 I know this seems a bit hostile but really its just from hard experience of Amiga people. I give this out for free but there are people out there who will take the piss and try to rip off amiga users with clones baring their own name, others will get one of these off ebay for £15 and expect me to invest 100s of hours in helping them get it going. Yet others will try to be smart arses and tell me i've done X, Y or Z wrong and this will never work. If for any reason you decide this board does not measure up to whatever standard YOU think it should be... take a hike. I dont care. 
 
