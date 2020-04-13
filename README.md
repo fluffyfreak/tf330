@@ -22,7 +22,7 @@ I do my best to help people who ask polite questions in public but if you make y
 
 ![alt text](https://github.com/terriblefire/tf330/raw/master/bottom.png "Bottom of board")
 
-I dont care if you think my HDL is not pristine either. It works perfecly fine for what its intended to be. I lothe the wordy VHDL language.. it breaks the most basic principle of coding .. .DONT REPEAT YOURSELF. 
+I dont care if you think my HDL is not pristine either. It works perfecly fine for what its intended to be. I lothe the wordy VHDL language.. it breaks the most basic principle of coding .. .DONT REPEAT YOURSELF. There is a full regression test suite in my development repo that I have chosen not to share.
 
 The SDRAM Controller is derived from my Archie core and the clock controller code is designed to simulate a PLL with adjustable phase. 
 
