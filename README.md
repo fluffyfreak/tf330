@@ -34,8 +34,10 @@ I dont like forks because i dont like options. Options mean more testing and mor
 
 I know this seems a bit hostile but really its just from hard experience of Amiga people. I give this out for free but there are people out there who will take the piss and try to rip off amiga users with clones baring their own name, others will get one of these off ebay for £15 and expect me to invest 100s of hours in helping them get it going. Yet others will try to be smart arses and tell me i've done X, Y or Z wrong and this will never work. If for any reason you decide this board does not measure up to whatever standard YOU think it should be... take a hike. I dont care. 
 
+That said you are free to sell this on your webshop provided you give credit and do not vastly overprice it. However CE marking is your own issue not mine. 
+
 On the other hand if you have an actual firmware bugfix send me a pull request with testing evidence. It will be appreciated greatly. 
 
 For crashes please check that the crash doesnt happen in WinUAE for a CD32 with A1200 IDE and 64MB ZIII Ram before making a bug report. Most of the crashes we have seen over the years are repeatable in that environment. 
 
-This version of the board is cloned from my private repository and is GPL. The version in my private repo is not GPL and anything derived from it is not subject to the GPL v2.
+This version of the board is cloned from my private repository and is GPL. The version in my private repo is not GPL and anything derived from it is not subject to the GPL v2. It is highly likely that I will eventually release everything in my private repo. I just do so at a pace that keeps the freeloaders and price gougers from making much out of me. 
